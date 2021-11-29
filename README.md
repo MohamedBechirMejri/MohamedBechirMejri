@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MohamedBechirMejri
 - 👀 I’m interested in ... Web Development Currently (Websites..) and software development (like mobile apps...) in the near future...
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... ReactJS
 - 💞️ I’m looking to collaborate on ... HTML, CSS, and JavaScript projects
 - 📫 How to reach me ... **_SOON_**
 
