@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @MohamedBechirMejri
 - 👀 I’m interested in ... Web Development Currently (Websites..) and software development (like mobile apps...) in the near future...
-- 🌱 I’m currently learning ... Ruby on Rails
+- 🌱 I’m currently learning ... ThreeJS
 - 💞️ I’m looking to collaborate on ... ReactJS, NodeJS, TailwindCSS, SCSS, Typescript and JavaScript projects
 - 📫 How to reach me: [Email](mailto:mohamedbechir.mejri.dev@gmail.com)
 
