@@ -1,5 +1,5 @@
 
-**_STILL WIP_** _I'll work on this after I finish Studying._
+**_STILL WIP_** 
 
 - 👋 Hi, I’m @MohamedBechirMejri
 - 👀 I’m interested in ... Web Development Currently (Websites..) and software development (like mobile apps...) in the near future...
