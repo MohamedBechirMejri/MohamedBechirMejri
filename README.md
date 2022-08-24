@@ -11,7 +11,7 @@
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img style='width:60%;' src='https://github-readme-stats-kohl-one.vercel.app/api?username=MohamedBechirMejri&show_icons=true&count_private=true' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
-    <img style='width:39%;' src='https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBechirMejri&layout=compact&show_icons=true&count_private=true&langs_count=10' />
+    <img style='width:39%;' src='https://github-readme-stats-kohl-one.vercel.app/api/top-langs/?username=MohamedBechirMejri&layout=compact&show_icons=true&count_private=true&langs_count=10' />
 </a>
 </div> 
   
