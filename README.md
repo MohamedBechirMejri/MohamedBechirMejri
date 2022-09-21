@@ -21,9 +21,6 @@
 
  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedbechirmejri)  
 
-![GitHub metrics](https://metrics.lecoq.io/mohamedbechirmejri)  
- 
 
 ![Profile views](https://gpvc.arturio.dev/mohamedbechirmejri)  
