@@ -16,11 +16,4 @@
 </div> 
   
  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbechirmejri)](https://github.com/ryo-ma/github-profile-trophy)
-
- 
-
-
-
 ![Profile views](https://gpvc.arturio.dev/mohamedbechirmejri)  
