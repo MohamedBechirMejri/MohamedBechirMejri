@@ -15,6 +15,15 @@
 </a>
 </div> 
   
-   
  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedbechirmejri)](https://github.com/ryo-ma/github-profile-trophy)
+
  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohamedbechirmejri)  
+
+![GitHub metrics](https://metrics.lecoq.io/mohamedbechirmejri)  
+ 
+
+![Profile views](https://gpvc.arturio.dev/mohamedbechirmejri)  
