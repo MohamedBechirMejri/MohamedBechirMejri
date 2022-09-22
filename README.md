@@ -13,7 +13,7 @@
 - 📫 How to reach me: [Email](mailto:mohamedbechir.mejri.dev@gmail.com)
   .
 
-<details closed>
+<details open>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
     <img style='width:100%;' src='https://streak-stats.demolab.com?user=MohamedBechirMejri&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=43C394&ring=43C394&fire=43C394&currStreakNum=C3C3C3&sideNums=C3C3C3&currStreakLabel=43C394&sideLabels=C3C3C3&dates=C3C3C3' />
