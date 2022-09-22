@@ -61,5 +61,5 @@
 </details>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme-git-fork-mohamedbechir-fb3313-piyushsuthar.vercel.app/api?type=horizontal&theme=github" />
 </p>
