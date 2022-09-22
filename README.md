@@ -1,4 +1,4 @@
-<img src="./header.svg"
+<img src="https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/header.svg"
         alt="header"
         style="display: block; margin: 0 auto" />
 
