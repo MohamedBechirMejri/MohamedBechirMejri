@@ -1,15 +1,15 @@
-89 lines (65 sloc)  2.83 KB
-
 <img src="./header.svg"
         alt="header"
         style="display: block; margin: 0 auto" />
 
-
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@MohamedBechirMejri"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+<p align="center">
+<img src="https://count.getloli.com/get/@MohamedBechirMejri" />
 </p>
 
+
+
+
+ 
 
 
 - 👋 Hi, I’m @MohamedBechirMejri
