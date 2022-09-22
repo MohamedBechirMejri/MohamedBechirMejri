@@ -22,11 +22,14 @@
 <details closed>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
-    <img style='width:100%;' src='https://github-readme-streak-stats.herokuapp.com/?user=MohamedBechirMejri&date_format=j%20M%5B%20Y%5D' />
+    <img style='width:100%;' src='https://streak-stats.demolab.com?user=MohamedBechirMejri&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=43C394&ring=43C394&fire=43C394&currStreakNum=C3C3C3&sideNums=C3C3C3&currStreakLabel=43C394&sideLabels=C3C3C3&dates=C3C3C3' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img style='width:60%;' src='https://github-readme-stats-kohl-one.vercel.app/api?username=MohamedBechirMejri&show_icons=true&count_private=true' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
     <img style='width:39%;' src='https://github-readme-stats-kohl-one.vercel.app/api/top-langs/?username=MohamedBechirMejri&layout=compact&show_icons=true&count_private=true&langs_count=10' />
 </a>
+
+
+
 </details> 
   
