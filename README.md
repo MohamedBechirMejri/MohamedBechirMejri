@@ -51,6 +51,8 @@
 
 </details>
 
+[![wakatime](https://wakatime.com/badge/user/d47f8334-d555-4ecd-802f-2052519fe5ec.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
+
 <details open>
   <summary> <b>Stats</b>: </summary>
 <a href='https://git.io/streak-stats' align="center" width="100%">
