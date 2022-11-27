@@ -48,7 +48,7 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 </details>
 
