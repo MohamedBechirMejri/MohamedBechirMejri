@@ -82,5 +82,5 @@
 </details>
 
 <p align="center">
-<img src="https://github-readme-quotes-2o3w-egeh5o3pw-mohamedbechirmejri.vercel.app/api?type=horizontal&theme=github" />
+<img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
