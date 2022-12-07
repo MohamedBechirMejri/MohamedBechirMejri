@@ -48,7 +48,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
 
 </details>
 
