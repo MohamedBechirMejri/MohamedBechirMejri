@@ -10,7 +10,7 @@
 <details open>
   <summary> <b>About Me</b>: </summary>
 
-- 2 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Developer.
+- 3 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Developer.
 - Since then, I have been proficient in many technologies:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
