@@ -88,6 +88,4 @@
 <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
 
-<p align="center">
-<img src="http://dev-memer.info/" />
-</p>
+ 
