@@ -7,7 +7,7 @@
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
 </p> 
   
-<details open>
+<details open> 
   <summary> <b>About Me</b>: </summary>
 
 - 3 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Engineer.
