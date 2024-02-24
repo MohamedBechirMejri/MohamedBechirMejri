@@ -5,7 +5,7 @@
 </p> -->   
 <p align="center"> 
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
-</p>  
+</p>   
             
 <details open>         
   <summary> <b>About Me</b>: </summary>   
