@@ -1,14 +1,14 @@
 ![Greetings](./header.svg)
 
-<!-- <p align="center"> 
-<img src="https://count.getloli.com/get/@MohamedBechirMejri" /> 
-</p> -->   
-<p align="center"> 
+<!-- <p align="center">
+<img src="https://count.getloli.com/get/@MohamedBechirMejri" />
+</p> -->
+<p align="center">
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
-</p>    
-            
-<details open>         
-  <summary> <b>About Me</b>: </summary>    
+</p>
+
+<details open>
+  <summary> <b>About Me</b>: </summary>
 
 - 4 years ago, I ate a [Devil Fruit](https://onepiece.fandom.com/wiki/Devil_Fruit "Devil Fruits are mysterious, distinctive fruits scattered throughout the world, known for granting their eaters permanent superhuman powers and an equally permanent inability to swim.") (Devu Devu no Mi) and it turned me into a Full-Stack Engineer.
 - Since then, I have been proficient in many technologies:
@@ -91,3 +91,21 @@
 <p align="center">
 <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
+
+```math
+\ce{$\unicode[
+  goombafont;
+  color:red;
+  pointer-events: none;
+  z-index: -10;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  object-fit: cover;
+  background-size: cover;
+  width: 130vw;
+  opacity: 0.5;
+  background: url('./bg.jpeg');
+  ]{x0000}$}
+```
