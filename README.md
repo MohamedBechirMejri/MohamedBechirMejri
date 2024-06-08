@@ -1,6 +1,6 @@
 ![Greetings](./header.svg)
 
-<p align="center" class='visitor-count'>
+<p align="center">
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
 </p>
 
@@ -106,4 +106,3 @@
   background: url('https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/bg.gif?raw=true');
   ]{x0000}$}
 ```
- 
