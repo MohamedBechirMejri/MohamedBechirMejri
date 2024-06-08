@@ -101,7 +101,7 @@
   object-fit: cover;
   background-size: cover;
   width: 130vw;
-  opacity: 0.5;
+  opacity: 0.15;
   background-repeat: no-repeat;
   background: url('https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/bg.gif?raw=true');
   ]{x0000}$}
