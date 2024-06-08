@@ -1,9 +1,6 @@
 ![Greetings](./header.svg)
 
-<!-- <p align="center">
-<img src="https://count.getloli.com/get/@MohamedBechirMejri" />
-</p> -->
-<p align="center">
+<p align="center" class='visitor-count'>
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
 </p>
 
@@ -94,8 +91,7 @@
 
 ```math
 \ce{$\unicode[
-  goombafont;
-  color:red;
+  'Fira Code';
   pointer-events: none;
   z-index: -10;
   position: fixed;
@@ -106,6 +102,8 @@
   background-size: cover;
   width: 130vw;
   opacity: 0.5;
-  background: url('https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/bg.jpeg?raw=true');
+  background-repeat: no-repeat;
+  background: url('https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/bg.gif?raw=true');
   ]{x0000}$}
 ```
+ 
