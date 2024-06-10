@@ -88,21 +88,3 @@
 <p align="center">
 <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
-
-```math
-\ce{$\unicode[
-  'Fira Code';
-  pointer-events: none;
-  z-index: -10;
-  position: fixed;
-  top: 0;
-  left: 0;
-  height: 100vh;
-  object-fit: cover;
-  background-size: cover;
-  width: 130vw;
-  opacity: 0.15;
-  background-repeat: no-repeat;
-  background: url('https://github.com/MohamedBechirMejri/MohamedBechirMejri/blob/main/bg.gif?raw=true');
-  ]{x0000}$}
-```
