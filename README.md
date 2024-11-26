@@ -36,6 +36,7 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+<!--
 - Plan to Learn:
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -49,7 +50,7 @@
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-%23000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?style=for-the-badge&logo=React-Query&logoColor=white)
-
+-->
 </details>
 
 [![wakatime](https://wakatime.com/badge/user/d47f8334-d555-4ecd-802f-2052519fe5ec.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
