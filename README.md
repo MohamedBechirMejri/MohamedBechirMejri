@@ -4,6 +4,8 @@
 <img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/tunisia/MohamedBechirMejri.svg)](https://user-badge.committers.top/tunisia/MohamedBechirMejri)
+
 <details open>
   <summary> <b>About Me</b>: </summary>
 
@@ -87,6 +89,10 @@
 
 </details>
 
+
+
+<!--
 <p align="center">
 <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
+-->
