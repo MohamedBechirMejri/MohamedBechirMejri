@@ -1,7 +1,7 @@
 ![Greetings](./header.svg)
 
 <p align="center">
-<img src="https://visitor-count-b8lb.vercel.app/api/MohamedBechirMejri" />
+<img src="https://visitor-count.mohamedbechir-mejri-dev.workers.dev/api/MohamedBechirMejri" />
 </p>
 
 [![committers.top badge](https://user-badge.committers.top/tunisia/MohamedBechirMejri.svg)](https://user-badge.committers.top/tunisia/MohamedBechirMejri)
