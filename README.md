@@ -60,6 +60,7 @@
 
 <details open>
   <summary> <b>Stats</b>: </summary>
+  Too lazy to update the github token so some of them will be broken 
 <a href='https://git.io/streak-stats' align="center" width="100%">
     <img style='width:100%;' src='https://streak-stats.demolab.com/?user=MohamedBechirMejri&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
 </a><a href='https://github.com/anuraghazra/github-readme-stats' align="center" width="100%">
