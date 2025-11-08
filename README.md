@@ -13,10 +13,10 @@
 - Since then, I have been proficient in many technologies.
 - My favorite stack includes:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Next JS](https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)![Next JS](https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?style=for-the-badge&logo=drizzle&logoColor=65A8FA)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?style=for-the-badge&logo=drizzle)![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker)![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1C?style=for-the-badge&logo=motion)![Bun](https://img.shields.io/badge/Bun-1C1C1C?style=for-the-badge&logo=bun)
 
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![Biome](https://img.shields.io/badge/Biome-1C1C1C?style=for-the-badge&logo=biome&logoColor=65A8FA) -->
