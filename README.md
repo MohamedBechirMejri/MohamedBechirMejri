@@ -4,8 +4,6 @@
 <img src="https://visitor-count.mohamedbechir-mejri-dev.workers.dev/api/MohamedBechirMejri" wid />
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/tunisia/MohamedBechirMejri.svg)](https://user-badge.committers.top/tunisia/MohamedBechirMejri)
-
 <details open>
   <summary> <b>About Me</b>: </summary>
 
@@ -81,4 +79,9 @@
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
+</p>
+
+<p align="center">
+<a href='https://user-badge.committers.top/tunisia/MohamedBechirMejri' target="_blank">
+<img src="https://user-badge.committers.top/tunisia/MohamedBechirMejri.svg" wid /></a>
 </p>
