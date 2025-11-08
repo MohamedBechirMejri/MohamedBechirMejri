@@ -13,10 +13,17 @@
 - Since then, I have been proficient in many technologies.
 - My favorite stack includes:
 
-![TypeScript](https://img.shields.io/badge/typescript-1C1C1C.svg?style=for-the-badge&logo=typescript) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1C1C1C.svg?style=for-the-badge&logo=tailwind-css) ![Next JS](https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/typescript-1C1C1C.svg?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-333.svg?style=for-the-badge&logo=tailwind-css)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1C?style=for-the-badge&logo=motion)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js)
 
-![Postgres](https://img.shields.io/badge/postgres-1C1C1C.svg?style=for-the-badge&logo=postgresql) ![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?style=for-the-badge&logo=drizzle) ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1C?style=for-the-badge&logo=motion) ![Bun](https://img.shields.io/badge/Bun-1C1C1C?style=for-the-badge&logo=bun)
+![Bun](https://img.shields.io/badge/Bun-1C1C1C?style=for-the-badge&logo=bun)
+![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?style=for-the-badge&logo=drizzle)
+![Postgres](https://img.shields.io/badge/postgres-1C1C1C.svg?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker)
 
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![Biome](https://img.shields.io/badge/Biome-1C1C1C?style=for-the-badge&logo=biome&logoColor=65A8FA) -->
