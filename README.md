@@ -17,13 +17,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next_js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333.svg?style=for-the-badge&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1C?style=for-the-badge&logo=motion)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1C1C1C?style=for-the-badge&logo=framer)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js)
 
 ![Bun](https://img.shields.io/badge/Bun-1C1C1C?style=for-the-badge&logo=bun)
 ![Drizzle](https://img.shields.io/badge/Drizzle-1C1C1C?style=for-the-badge&logo=drizzle)
 ![Postgres](https://img.shields.io/badge/postgres-1C1C1C.svg?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=for-the-badge&logo=docker)
+![React Native](https://img.shields.io/badge/React_Native-1C1C1C?style=for-the-badge&logo=react)
 
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
 <!-- ![Biome](https://img.shields.io/badge/Biome-1C1C1C?style=for-the-badge&logo=biome&logoColor=65A8FA) -->
@@ -45,8 +46,6 @@
 -->
 </details>
 
-[![wakatime](https://wakatime.com/badge/user/d47f8334-d555-4ecd-802f-2052519fe5ec.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
-
 <details open>
   <summary> <b>Stats</b>: </summary>
   <!-- Too lazy to update the github token so some of them will be broken  -->
@@ -66,21 +65,20 @@
 
 <!-- TODO: Add cv download link -->
 
-<details open>
-  <summary> <b>Connect With Me</b>: </summary>
+<small> Time spent coding (not including design and planning) </small>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedbechir.mejri.dev@gmail.com)
+[![wakatime](https://wakatime.com/badge/user/d47f8334-d555-4ecd-802f-2052519fe5ec.svg?style=for-the-badge)](https://wakatime.com/@d47f8334-d555-4ecd-802f-2052519fe5ec)
+
+<details open>
+
+<summary> <small> Connect With Me</small>   </summary>
+<p></p>
+
+[![Mail](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:bechir@mejri.dev)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedbechirmejri/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/MohamedBechirMejri/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed_bechir_mejri/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/21655209052)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MBechirM)
-[![Telegram](https://img.shields.io/badge/More-About_me-3aa780?style=for-the-badge)](https://MohamedBechirMejri.dev)
 
 </details>
 
-<!--
 <p align="center">
 <img src="https://github-readme-quotes-2o3w.vercel.app/api?type=horizontal&theme=github" />
 </p>
--->
