@@ -78,8 +78,3 @@
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
 </p>
-
-<p align="center">
-<a href='https://user-badge.committers.top/tunisia/MohamedBechirMejri' target="_blank">
-<img src="https://user-badge.committers.top/tunisia/MohamedBechirMejri.svg" wid /></a>
-</p>
